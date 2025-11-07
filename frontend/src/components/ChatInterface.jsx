@@ -3,6 +3,7 @@ import axios from 'axios'
 import ChatMessage from './ChatMessage'
 import ChatInput from './ChatInput'
 import ModeSelector from './ModeSelector'
+import API_URL from '../config'
 
 export default function ChatInterface() {
   const [messages, setMessages] = useState([
@@ -45,7 +46,7 @@ export default function ChatInterface() {
 
     try {
       // Call API
-      const response = await axios.post('/api/chat', {
+      const response = await axios.post(`${API_URL}/api/chat`, {
         message,
         mode
       }, {
