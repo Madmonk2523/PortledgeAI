@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t001",
+    "name": "Dr. Sarah Mitchell",
+    "title": "Head of Science Department",
+    "subjects": ["Biology", "AP Biology", "Environmental Science"],
+    "email": "smitchell@portledge.org",
+    "room": "Science Lab 101",
+    "building": "Academic Center",
+    "office_hours": "Monday-Friday 3:00-4:00 PM",
+    "bio": "Ph.D. in Marine Biology from Cornell University. 15 years teaching experience."
+  },
+  {
+    "id": "t002",
+    "name": "Mr. James Rodriguez",
+    "title": "Mathematics Teacher",
+    "subjects": ["Algebra 2", "Pre-Calculus", "AP Calculus AB"],
+    "email": "jrodriguez@portledge.org",
+    "room": "Math Wing 205",
+    "building": "Academic Center",
+    "office_hours": "Tuesday-Thursday 2:45-3:45 PM",
+    "bio": "Former engineer, passionate about making math accessible and fun."
+  },
+  {
+    "id": "t003",
+    "name": "Ms. Emily Chen",
+    "title": "Spanish Teacher",
+    "subjects": ["Spanish 2 Honors", "Spanish 3", "AP Spanish Language"],
+    "email": "echen@portledge.org",
+    "room": "Language Lab 302",
+    "building": "Academic Center",
+    "office_hours": "Monday-Wednesday 3:00-4:00 PM",
+    "bio": "Native Spanish speaker from Barcelona. MA in Foreign Language Education."
+  },
+  {
+    "id": "t004",
+    "name": "Dr. Michael Thompson",
+    "title": "History Department Chair",
+    "subjects": ["World History", "US History", "AP US Government"],
+    "email": "mthompson@portledge.org",
+    "room": "History Hall 210",
+    "building": "Academic Center",
+    "office_hours": "Monday-Friday 2:45-3:30 PM",
+    "bio": "Ph.D. in American History. Published author and historian."
+  },
+  {
+    "id": "t005",
+    "name": "Ms. Rebecca Walsh",
+    "title": "English Teacher",
+    "subjects": ["English 10", "AP English Literature", "Creative Writing"],
+    "email": "rwalsh@portledge.org",
+    "room": "English Wing 115",
+    "building": "Academic Center",
+    "office_hours": "Tuesday-Thursday 3:00-4:00 PM",
+    "bio": "Published poet and novelist. Passionate about fostering student creativity."
+  },
+  {
+    "id": "t006",
+    "name": "Mr. David Kim",
+    "title": "Computer Science Teacher",
+    "subjects": ["Intro to Computer Science", "AP Computer Science A", "Web Development"],
+    "email": "dkim@portledge.org",
+    "room": "Tech Lab 401",
+    "building": "Innovation Center",
+    "office_hours": "Monday-Friday 3:00-4:30 PM",
+    "bio": "Former software engineer at Google. Teaching coding for 8 years."
+  },
+  {
+    "id": "t007",
+    "name": "Ms. Amanda Foster",
+    "title": "Chemistry Teacher",
+    "subjects": ["Chemistry", "AP Chemistry", "Organic Chemistry"],
+    "email": "afoster@portledge.org",
+    "room": "Science Lab 103",
+    "building": "Academic Center",
+    "office_hours": "Monday-Wednesday 3:00-4:00 PM",
+    "bio": "Ph.D. in Organic Chemistry. Research background in pharmaceutical development."
+  },
+  {
+    "id": "t008",
+    "name": "Mr. Robert Johnson",
+    "title": "Physics Teacher",
+    "subjects": ["Physics", "AP Physics 1", "AP Physics C"],
+    "email": "rjohnson@portledge.org",
+    "room": "Science Lab 105",
+    "building": "Academic Center",
+    "office_hours": "Tuesday-Thursday 3:00-4:00 PM",
+    "bio": "Former NASA engineer. Makes physics engaging and practical."
+  },
+  {
+    "id": "t009",
+    "name": "Ms. Laura Martinez",
+    "title": "French Teacher",
+    "subjects": ["French 2", "French 3 Honors", "AP French Language"],
+    "email": "lmartinez@portledge.org",
+    "room": "Language Lab 304",
+    "building": "Academic Center",
+    "office_hours": "Monday-Thursday 3:00-3:45 PM",
+    "bio": "Grew up in Paris. Brings authentic French culture to the classroom."
+  },
+  {
+    "id": "t010",
+    "name": "Mr. Christopher Lee",
+    "title": "Athletic Director",
+    "subjects": ["Physical Education", "Health", "Sports Management"],
+    "email": "clee@portledge.org",
+    "room": "Athletic Office",
+    "building": "Gymnasium",
+    "office_hours": "By appointment",
+    "bio": "Former college athlete. Focuses on wellness and team building."
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "rotation": {
+    "days": ["A", "B", "C", "D", "E", "F"],
+    "current_day": "A",
+    "description": "Portledge operates on a 6-day rotating schedule (A-F Days)"
+  },
+  "bell_schedule": {
+    "regular": [
+      { "period": "1", "start": "8:00", "end": "8:50" },
+      { "period": "2", "start": "8:55", "end": "9:45" },
+      { "period": "Break", "start": "9:45", "end": "10:00" },
+      { "period": "3", "start": "10:00", "end": "10:50" },
+      { "period": "4", "start": "10:55", "end": "11:45" },
+      { "period": "Lunch", "start": "11:45", "end": "12:30" },
+      { "period": "5", "start": "12:30", "end": "1:20" },
+      { "period": "6", "start": "1:25", "end": "2:15" },
+      { "period": "7", "start": "2:20", "end": "3:10" }
+    ],
+    "early_dismissal": [
+      { "period": "1", "start": "8:00", "end": "8:35" },
+      { "period": "2", "start": "8:40", "end": "9:15" },
+      { "period": "3", "start": "9:20", "end": "9:55" },
+      { "period": "Break", "start": "9:55", "end": "10:05" },
+      { "period": "4", "start": "10:05", "end": "10:40" },
+      { "period": "5", "start": "10:45", "end": "11:20" },
+      { "period": "Lunch", "start": "11:20", "end": "11:50" },
+      { "period": "6", "start": "11:50", "end": "12:25" },
+      { "period": "7", "start": "12:30", "end": "1:05" }
+    ]
+  },
+  "rotation_calendar": {
+    "2025-11-07": "A",
+    "2025-11-08": "B",
+    "2025-11-11": "C",
+    "2025-11-12": "D",
+    "2025-11-13": "E",
+    "2025-11-14": "F",
+    "2025-11-15": "A",
+    "2025-11-18": "B",
+    "2025-11-19": "C",
+    "2025-11-20": "D",
+    "2025-11-21": "E",
+    "2025-11-22": "F"
+  },
+  "example_student_schedules": {
+    "grade_10": {
+      "A": [
+        { "period": "1", "class": "English 10", "teacher": "Ms. Walsh", "room": "115" },
+        { "period": "2", "class": "Spanish 2 Honors", "teacher": "Ms. Chen", "room": "302" },
+        { "period": "3", "class": "Algebra 2", "teacher": "Mr. Rodriguez", "room": "205" },
+        { "period": "4", "class": "Chemistry", "teacher": "Ms. Foster", "room": "103" },
+        { "period": "5", "class": "World History", "teacher": "Dr. Thompson", "room": "210" },
+        { "period": "6", "class": "Physical Education", "teacher": "Mr. Lee", "room": "Gym" },
+        { "period": "7", "class": "Study Hall", "teacher": "Various", "room": "Library" }
+      ]
+    }
+  }
+}

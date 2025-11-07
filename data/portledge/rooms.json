@@ -1,0 +1,52 @@
+{
+  "buildings": [
+    {
+      "id": "academic_center",
+      "name": "Academic Center",
+      "description": "Main academic building with classrooms for core subjects",
+      "floors": 3,
+      "rooms": [
+        { "number": "101", "type": "Science Lab", "capacity": 24, "features": ["Lab benches", "Fume hoods", "Smart board"] },
+        { "number": "103", "type": "Science Lab", "capacity": 24, "features": ["Lab benches", "Chemical storage", "Smart board"] },
+        { "number": "105", "type": "Science Lab", "capacity": 24, "features": ["Lab benches", "Physics equipment", "Smart board"] },
+        { "number": "115", "type": "English Classroom", "capacity": 20, "features": ["Circle seating", "Library corner", "Smart board"] },
+        { "number": "205", "type": "Math Classroom", "capacity": 22, "features": ["Whiteboards", "Graphing calculators", "Smart board"] },
+        { "number": "210", "type": "History Classroom", "capacity": 24, "features": ["Map wall", "Document camera", "Smart board"] },
+        { "number": "302", "type": "Language Lab", "capacity": 18, "features": ["Audio stations", "Interactive displays", "Cultural artifacts"] },
+        { "number": "304", "type": "Language Lab", "capacity": 18, "features": ["Audio stations", "Interactive displays", "Cultural artifacts"] }
+      ]
+    },
+    {
+      "id": "innovation_center",
+      "name": "Innovation Center",
+      "description": "Technology and maker space building",
+      "floors": 4,
+      "rooms": [
+        { "number": "401", "type": "Computer Lab", "capacity": 30, "features": ["High-end PCs", "Dual monitors", "3D printers"] },
+        { "number": "402", "type": "Maker Space", "capacity": 20, "features": ["Tools", "Prototyping equipment", "Workbenches"] },
+        { "number": "403", "type": "Robotics Lab", "capacity": 24, "features": ["Robot testing area", "Parts storage", "Competition prep space"] }
+      ]
+    },
+    {
+      "id": "gymnasium",
+      "name": "Gymnasium",
+      "description": "Athletic facilities and sports center",
+      "floors": 2,
+      "rooms": [
+        { "number": "Main Court", "type": "Basketball Court", "capacity": 500, "features": ["Bleachers", "Scoreboard", "Sound system"] },
+        { "number": "Fitness Center", "type": "Weight Room", "capacity": 30, "features": ["Cardio equipment", "Free weights", "Machines"] },
+        { "number": "Pool", "type": "Swimming Pool", "capacity": 100, "features": ["6 lanes", "Diving board", "Timing system"] }
+      ]
+    },
+    {
+      "id": "library",
+      "name": "Mills Library",
+      "description": "School library and study center",
+      "floors": 2,
+      "rooms": [
+        { "number": "Main Floor", "type": "Study Area", "capacity": 80, "features": ["Individual desks", "Group tables", "Computer stations"] },
+        { "number": "Conference Rooms", "type": "Group Study", "capacity": 10, "features": ["Whiteboards", "Video conferencing", "Comfortable seating"] }
+      ]
+    }
+  ]
+}
